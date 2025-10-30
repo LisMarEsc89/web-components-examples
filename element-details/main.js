@@ -1,3 +1,7 @@
+
+
+
+
 customElements.define('element-details',
   class extends HTMLElement {
     constructor() {
@@ -9,3 +13,10 @@ customElements.define('element-details',
         .appendChild(template.cloneNode(true));
   }
 });
+
+
+
+
+
+
+
